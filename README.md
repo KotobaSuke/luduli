@@ -1,9 +1,9 @@
-# luduli
+# LUDULI
 Repositorium privatum pro discendo creationem ludulorum
 
 （*Private repository for learning game making*）
 
-## Index ludorum · Game list ##
+## Index Ludorum · Game List ##
 
 * Ictus et Plagae · [Hit & Blow / Mastermind](https://en.wikipedia.org/wiki/Mastermind_(board_game))
 * [Mancala](https://en.wikipedia.org/wiki/Mancala)
