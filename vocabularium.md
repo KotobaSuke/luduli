@@ -22,7 +22,7 @@
 
 ## MNOP ##
 + **nihil**: *null* (< "nothing")
-+ *&*nōminētum*, -ī** *n.nt.*: *namespace* <br>(= **nōmen** *name* + **-ētum**)
++ ***nōminētum*, -ī** *n.nt.*: *namespace* <br>(= **nōmen** *name* + **-ētum**)
 + **pergō, -ere** (`perg`) *v.*: *to continue*
 + `pfort`: **pseudo-fortuītum**, `srand`
 + **prō**: *for*
