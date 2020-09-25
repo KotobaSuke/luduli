@@ -9,14 +9,33 @@
 + **dum**: *while*
 
 ## EFGH ##
-+ **fac**: *do* (2sg. imp. of **faciō, facere**)
++ **fac**: *do* (2sg.imp. of **faciō, facere**)
 + **falsus, -ī** *a.*: *false*
-+ **flectō, -ere** (`flec`) *v.*: *to switch* (< *to bend*)
++ **flectō, -ere** (`flec`) *v.*: *to switch* (< "to bend")
++ **fortuītus, -ī** (`fort`) *a.*: *random*
++ **frangō, -ere** (`frang`) *v.*: *to break*
 
 ## IJKL ##
++ ***inassīgnātus*, -ī** (`inassgn`) *a.*: *unassigned*
++ **līnum, -ī** *n.nt.*: *string*
++ `linsim`: `strcpy`, **simulātiō līnī**
 
 ## MNOP ##
++ **nihil**: *null* (< "nothing")
++ *&*nōminētum*, -ī** *n.nt.*: *namespace* <br>(= **nōmen** *name* + **-ētum**)
++ **pergō, -ere** (`perg`) *v.*: *to continue*
++ `pfort`: **pseudo-fortuītum**, `srand`
++ **prō**: *for*
 
 ## QRST ##
++ **reddō, -ere** *v.*: *to return*
++ **rēs, reī** *n.f.*: *case* (< "thing; affair")
++ **sī**: *if*
++ `tect`: **functiō tēctī**, *ceiling function*, `ceil`
 
 ## UVWXYZ ##
++ **vacuus, -ī** (`vac`) *a.*: *void*
+   + **functiō vacua**: *void function*
+   + ***parametrum* (-ī**, *n.nt.*) **vacuum**: *void parameter*
++ **vērus, -ī** *a.*: *true*
++ `vfin`: **versum finiō, -īre**, *to end the line*, `endl`
