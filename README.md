@@ -34,3 +34,9 @@ Repositorium privatum pro discendo creationem ludulorum
 **Gratias ago pro hoc legendo.**
 
 (*Thank you for reading this*)
+
+## Res de Me · About Me ##
+
+Ego, **Kotoba Trilius**, discipulus in Universitate Quangtungensi de Studis Peregrinis discens Scientiam Computatri.
+
+(*I,* **Kotoba Trily** *, is currently a student learning Computer Science in GDUFS.*)
