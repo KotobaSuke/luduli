@@ -19,9 +19,9 @@ Repositorium privatum pro discendo creationem ludulorum
 
 (*I am making some mini-games to exercise my coding, and here is my private repository to put the products.*)
 
-**Omnes codices facti sunt *Latine*. Hae explicationes paratae sunt et *Latine* et *Anglice***.
+**Omnes codices facti sunt ab C++ *Latinico*. Hae explicationes paratae sunt et *Latine* et *Anglice***.
 
-(*All codes are written in **Latin**, and the explanations here are provided in both **Latin** and **English**.*)
+(*All codes are written in **Latin**-form C++, and the explanations here are provided in both **Latin** and **English**.*)
 
 **Me piget absentiae aliarum linguarum.**
 
