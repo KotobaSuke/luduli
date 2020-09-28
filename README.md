@@ -11,22 +11,26 @@ Repositorium privatum pro discendo creationem ludulorum
 * Duodecim Script · [Backgammon](https://en.wikipedia.org/wiki/Backgammon)
 
 ## Explicationes · Explanations ##
-Salvete!
+**Salvete!**
 
 (*Welcome!*)
 
-Ludulos facio ad exercendum codicationem. Hic est meum repositorium privatum pro ponendo opera.
+**Ludulos facio ad exercendum codicationem. Hic est meum repositorium privatum pro ponendo opera.**
 
 (*I am making some mini-games to exercise my coding, and here is my private repository to put the products.*)
 
-Omnes codices facti sunt **Latine**. Hae explicationes paratae sunt et **Latine** et **Anglice**.
+**Omnes codices facti sunt *Latine*. Hae explicationes paratae sunt et *Latine* et *Anglice***.
 
 (*All codes are written in **Latin**, and the explanations here are provided in both **Latin** and **English**.*)
 
-Me piget absentiae aliarum linguarum.
+**Me piget absentiae aliarum linguarum.**
 
 (*Sorry for the absence of the other languages.*)
 
-Gratias ago pro hoc legendo.
+**Legete `vocabularium.md` ad videndum singula de terminis in meis codicibus.**
+
+(*For the terms I used in my codes, please read the `vocabularium.md` for details.*)
+
+**Gratias ago pro hoc legendo.**
 
 (*Thank you for reading this*)
