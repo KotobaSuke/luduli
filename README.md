@@ -12,16 +12,21 @@ Repositorium privatum pro discendo creationem ludulorum
 
 ## Explicationes · Explanations ##
 Salvete!
+
 (*Welcome!*)
 
 Ludulos facio ad exercendum codicationem. Hic est meum repositorium privatum pro ponendo opera.
+
 (*I am making some mini-games to exercise my coding, and here is my private repository to put the products.*)
 
 Omnes codices facti sunt **Latine**. Hae explicationes paratae sunt et **Latine** et **Anglice**.
+
 (*All codes are written in **Latin**, and the explanations here are provided in both **Latin** and **English**.*)
 
 Me piget absentiae aliarum linguarum.
+
 (*Sorry for the absence of the other languages.*)
 
 Gratias ago pro hoc legendo.
+
 (*Thank you for reading this*)
