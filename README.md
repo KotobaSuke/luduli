@@ -29,7 +29,7 @@ Repositorium privatum pro discendo creationem ludulorum
 
 **Legete `vocabularium.md` ad videndum singula de terminis in meis codicibus.**
 
-(*For the terms I used in my codes, please read the **`vocabularium.md`** for details.*)
+(*For the terms I used in my codes, please read the *`vocabularium.md`* for details.*)
 
 **Gratias ago pro hoc legendo.**
 
