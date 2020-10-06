@@ -40,6 +40,7 @@
 + **reddō, -ere** *v.*: *to return*
 + **repositōrium, -ī** *n.nt.*: *repository*
 + **rēs, reī** *n.f.*: *case* (< "thing; affair")
++ **scapus, -ī** *n.m.*: *file*
 + **sī**: *if*
 + `tect`: **functiō tēctī**, *ceiling function*, `ceil`
 
