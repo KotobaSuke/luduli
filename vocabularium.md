@@ -1,10 +1,15 @@
-*This is the list of the Latin terms I used in my codes*
+*This is the list of the Latin terms I used in my codes or explanations*
 
 ## ABCD ##
 + **aliter** (`alit`): *else*
++ ***bitus*** *n.m.*: *bit*
 + ***būleāna*, -ae** (`bul`) *n.f.*: **variābilis *būleāna***, *Boolean variable*
 + **caput, -pitis** *n.nt.*: **functiō capitālis**, *main function*
 + `cex`: `cout`
++ **classis, -is** *n.f.*: *class*
++ **cōdex, -icis** *n.m.*: *code* (< "tree trunk")
+   + ***cōdicātiō, -ōnis*** *n.f.*: *coding*
++ **dāta, -ārum** *n.nt.pl.*: *data* (< "given things")
 + **dēfectus, -ī** (`def`) *a.*: *default* (< "defect")
 + **dum**: *while*
 
@@ -23,12 +28,17 @@
 ## MNOP ##
 + **nihil**: *null* (< "nothing")
 + ***nōminētum*, -ī** *n.nt.*: *namespace* <br>(= **nōmen** *name* + **-ētum**)
++ **objectum, -ī** *n.nt.*: *object*
++ ***octētus, -ī*** *n.m.*: *byte* (< En. **octet**)
 + **pergō, -ere** (`perg`) *v.*: *to continue*
 + `pfort`: **pseudo-fortuītum**, `srand`
 + **prō**: *for*
++ **programma, -ata** *n.nt.*: *program* (< Gr. **programma** "edict")
+   + ***programmatātiō, -ōnis*** *n.f.*: *programming*
 
 ## QRST ##
 + **reddō, -ere** *v.*: *to return*
++ **repositōrium, -ī** *n.nt.*: *repository*
 + **rēs, reī** *n.f.*: *case* (< "thing; affair")
 + **sī**: *if*
 + `tect`: **functiō tēctī**, *ceiling function*, `ceil`
