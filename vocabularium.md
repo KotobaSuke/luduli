@@ -38,6 +38,7 @@
    + **nōrmalis, -is** *a.*: *standard*
 + **objectum, -ī** *n.nt.*: *object*
 + ***octētus, -ī*** *n.m.*: *byte* (< En. **octet**)
++ ***parataxis, -is** *n.f.*: *array* (< NGr. **parataxi**)
 + **pergō, -ere** (`perg`) *v.*: *to continue*
 + `pfort`: **pseudo-fortuītum**, `srand`
 + **prō**: *for*
