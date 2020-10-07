@@ -17,6 +17,7 @@
 + **fac**: *do* (2sg.imp. of **faciō, facere**)
 + **falsus, -ī** *a.*: *false*
 + **flectō, -ere** (`flec`) *v.*: *to switch* (< "to bend")
++ **fōns, -tis** *n.m.*: **cōdex fōntānus**, *source (code)*
 + **fortuītus, -ī** (`fort`) *a.*: *random*
 + **frangō, -ere** (`frang`) *v.*: *to break*
 
