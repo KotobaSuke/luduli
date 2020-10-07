@@ -9,6 +9,7 @@
 + **classis, -is** *n.f.*: *class*
 + **cōdex, -icis** *n.m.*: *code* (< "tree trunk")
    + ***cōdicātiō, -ōnis*** *n.f.*: *coding*
++ **compīlō, -āre** *v.*: *to compile* (< "to plunder")
 + **dāta, -ārum** *n.nt.pl.*: *data* (< "given things")
 + **dēfectus, -ī** (`def`) *a.*: *default* (< "defect")
 + **dum**: *while*
@@ -25,12 +26,14 @@
 
 ## IJKL ##
 + ***inassīgnātus*, -ī** (`inassgn`) *a.*: *unassigned*
++ ***Java, -ae** *n.f.*: *Java*
++ **lingua C**, **C** *n.f.*: *C language*
 + **līnum, -ī** *n.nt.*: *string*
 + `linsim`: `strcpy`, **simulātiō līnī**
 
 ## MNOP ##
 + **nihil**: *null* (< "nothing")
-+ ***nōminētum*, -ī** *n.nt.*: *namespace* <br>(= **nōmen** *name* + **-ētum**)
++ ***nōminētum*, -ī** *n.nt.*: *namespace* <br>(= **nōmen** "name" + **-ētum**)
 + **nōrma, -ae** *n.f.*: *standard* (< *carpenter's square*)
    + **nōrmalis, -is** *a.*: *standard*
 + **objectum, -ī** *n.nt.*: *object*
@@ -40,11 +43,13 @@
 + **prō**: *for*
 + **programma, -ata** *n.nt.*: *program* (< Gr. **programma** "edict")
    + ***programmatātiō, -ōnis*** *n.f.*: *programming*
++ ***Pȳthon, -ōnis*** *n.f.*: *Python*
 
 ## QRST ##
 + **reddō, -ere** *v.*: *to return*
 + **repositōrium, -ī** *n.nt.*: *repository*
 + **rēs, reī** *n.f.*: *case* (< "thing; affair")
++ **robot, -is** *n.m.*: **androidēs**, *robot* (< Cz. **robot** < **robota** "servitude")
 + **scapus, -ī** *n.m.*: *file*
 + **sī**: *if*
 + `tect`: **functiō tēctī**, *ceiling function*, `ceil`
