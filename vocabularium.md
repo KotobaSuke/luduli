@@ -26,7 +26,7 @@
 
 ## IJKL ##
 + ***inassīgnātus*, -ī** (`inassgn`) *a.*: *unassigned*
-+ ***Java, -ae** *n.f.*: *Java*
++ ***Java, -ae*** *n.f.*: *Java*
 + **lingua C**, **C** *n.f.*: *C language*
 + **līnum, -ī** *n.nt.*: *string*
 + `linsim`: `strcpy`, **simulātiō līnī**
@@ -51,6 +51,8 @@
 + **rēs, reī** *n.f.*: *case* (< "thing; affair")
 + **robot, -is** *n.m.*: **androidēs**, *robot* (< Cz. **robot** < **robota** "servitude")
 + **scapus, -ī** *n.m.*: *file*
++ **scrīptum, -ī** *n.nt.*: *script* (< "text")
+   + **ScrīptumJavae**: *JavaScript*
 + **sī**: *if*
 + `tect`: **functiō tēctī**, *ceiling function*, `ceil`
 
