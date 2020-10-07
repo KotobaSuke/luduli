@@ -21,6 +21,8 @@
 + **flūxus, -ūs** *n.m.*: *stream*
    + **I/E flūxus**: *I/O stream*
 + **fōns, -tis** *n.m.*: **cōdex fōntānus**, *source (code)*
++ ***fōrmātūra, -ae*** *n.f.*: *format*
+   + **fōrmātus, -ī** *a.*: *formatted*
 + **fortuītus, -ī** (`fort`) *a.*: *random*
 + **frangō, -ere** (`frang`) *v.*: *to break*
 
