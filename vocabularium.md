@@ -25,6 +25,7 @@
    + **fōrmātus, -ī** *a.*: *formatted*
 + **fortuītus, -ī** (`fort`) *a.*: *random*
 + **frangō, -ere** (`frang`) *v.*: *to break*
++ **functiō, -ōnis** *n.f.*: *function*
 
 ## IJKL ##
 + ***inassīgnātus*, -ī** (`inassgn`) *a.*: *unassigned*
@@ -46,6 +47,7 @@
 + **prō**: *for*
 + **programma, -ata** *n.nt.*: *program* (< Gr. **programma** "edict")
    + ***programmatātiō, -ōnis*** *n.f.*: *programming*
+* ***prōtotypus, -ī*** *n.m.*: *prototype* (< Gr. **prōtotypos**)
 + ***Pȳthon, -ōnis*** *n.f.*: *Python*
 
 ## QRST ##
