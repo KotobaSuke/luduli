@@ -17,6 +17,8 @@
 + **fac**: *do* (2sg.imp. of **faciō, facere**)
 + **falsus, -ī** *a.*: *false*
 + **flectō, -ere** (`flec`) *v.*: *to switch* (< "to bend")
++ **flūxus, -ūs** *n.m.*: *stream*
+   + **I/E flūxus**: *I/O stream*
 + **fōns, -tis** *n.m.*: **cōdex fōntānus**, *source (code)*
 + **fortuītus, -ī** (`fort`) *a.*: *random*
 + **frangō, -ere** (`frang`) *v.*: *to break*
@@ -29,6 +31,8 @@
 ## MNOP ##
 + **nihil**: *null* (< "nothing")
 + ***nōminētum*, -ī** *n.nt.*: *namespace* <br>(= **nōmen** *name* + **-ētum**)
++ **nōrma, -ae** *n.f.*: *standard* (< *carpenter's square*)
+   + **nōrmalis, -is** *a.*: *standard*
 + **objectum, -ī** *n.nt.*: *object*
 + ***octētus, -ī*** *n.m.*: *byte* (< En. **octet**)
 + **pergō, -ere** (`perg`) *v.*: *to continue*
