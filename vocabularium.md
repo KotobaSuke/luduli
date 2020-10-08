@@ -37,7 +37,7 @@
 ## MNOP ##
 + **nihil**: *null* (< "nothing")
 + ***nōminētum*, -ī** *n.nt.*: *namespace* <br>(= **nōmen** "name" + **-ētum**)
-+ **nōrma, -ae** *n.f.*: *standard* (< *carpenter's square*)
++ **nōrma, -ae** *n.f.*: *standard* (< "carpenter's square")
    + **nōrmalis, -is** *a.*: *standard*
 + **objectum, -ī** *n.nt.*: *object*
 + ***octētus, -ī*** *n.m.*: *byte* (< En. **octet**)
