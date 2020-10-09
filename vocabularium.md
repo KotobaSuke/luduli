@@ -31,8 +31,9 @@
 + ***inassīgnātus*, -ī** (`inassgn`) *a.*: *unassigned*
 + ***Java, -ae*** *n.f.*: *Java*
 + **lingua C**, **C** *n.f.*: *C language*
-+ **līnum, -ī** *n.nt.*: *string*
 + `linsim`: `strcpy`, **simulātiō līnī**
++ **līnum, -ī** *n.nt.*: *string*
++ ***Linux, -cis*** *n.m.*: *Linux*
 
 ## MNOP ##
 + **nihil**: *null* (< "nothing")
@@ -44,6 +45,7 @@
 + ***parataxis, -is*** *n.f.*: *array* (< NGr. **parataxi**)
 + **pergō, -ere** (`perg`) *v.*: *to continue*
 + `pfort`: **pseudo-fortuītum**, `srand`
++ **plica, -ae** *n.f.*: *file* (vide [**id**](http://web.archive.org/web/20040305080739/http://home.t-online.de/home/Wiebke.Timm/computerlatein.htm))
 + **prō**: *for*
 + **programma, -ata** *n.nt.*: *program* (< Gr. **programma** "edict")
    + ***programmatātiō, -ōnis*** *n.f.*: *programming*
@@ -55,15 +57,17 @@
 + **repositōrium, -ī** *n.nt.*: *repository*
 + **rēs, reī** *n.f.*: *case* (< "thing; affair")
 + **robot, -is** *n.m.*: **androidēs**, *robot* (< Cz. **robot** < **robota** "servitude")
-+ **scapus, -ī** *n.m.*: *file*
 + **scrīptum, -ī** *n.nt.*: *script* (< "text")
    + **ScrīptumJavae**: *JavaScript*
 + **sī**: *if*
++ **systēma, -ata** *n.nt*: *system*
 + `tect`: **functiō tēctī**, *ceiling function*, `ceil`
 
 ## UVWXYZ ##
++ ***Ubūntu, -us*** *n.nt.*: *Ubuntu*
 + **vacuus, -ī** (`vac`) *a.*: *void*
    + **functiō vacua**: *void function*
    + ***parametrum* (-ī**, *n.nt.*) **vacuum**: *void parameter*
++ **versiō, -ōnis** *n.f.*: *version* (< "turning")
 + **vērus, -ī** *a.*: *true*
 + `vfin`: **versum finiō, -īre**, *to end the line*, `endl`
