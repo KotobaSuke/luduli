@@ -2,6 +2,7 @@
 
 ## ABCD ##
 + **aliter** (`alit`): *else*
++ **Apacius, -ī** *n.m.*: *Apache*
 + ***bitus*** *n.m.*: *bit*
 + ***būleāna*, -ae** (`bul`) *n.f.*: **variābilis *būleāna***, *Boolean variable*
 + **caput, -pitis** *n.nt.*: **functiō capitālis**, *main function*
@@ -26,6 +27,7 @@
 + **fortuītus, -ī** (`fort`) *a.*: *random*
 + **frangō, -ere** (`frang`) *v.*: *to break*
 + **functiō, -ōnis** *n.f.*: *function*
++ **Gradulus, -ī** *n.m.*: *Gradle*
 
 ## IJKL ##
 + ***inassīgnātus*, -ī** (`inassgn`) *a.*: *unassigned*
@@ -36,6 +38,8 @@
 + ***Linux, -cis*** *n.m.*: *Linux*
 
 ## MNOP ##
++ **mendum, -ī** *n.nt.*: *bug* (< "fault")
+   + ***demendō, -āre*** *v.*: *to debug*
 + **nihil**: *null* (< "nothing")
 + ***nōminētum*, -ī** *n.nt.*: *namespace* <br>(= **nōmen** "name" + **-ētum**)
 + **nōrma, -ae** *n.f.*: *standard* (< "carpenter's square")
