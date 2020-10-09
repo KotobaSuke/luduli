@@ -22,6 +22,9 @@
 + **fac**: *do* (2sg.imp. of **faciō, facere**)
 + **falsus, -ī** *a.*: *false*
 + **flectō, -ere** (`flec`) *v.*: *to switch* (< "to bend")
++ **fluitāns, -tis** (`fluit`) *a.*: **numerus punctī fluitāntis**, *float-point number*
+   + **punctum fluitānte in praecīsiōne duplā** (`dupla`): *double-precision float-point*
+   + **punctum fluitānte in praecīsiōne simplā**: *single-precision float-point*
 + **flūxus, -ūs** *n.m.*: *stream*
    + **I/E flūxus**: *I/O stream*
 + **fōns, -tis** *n.m.*: **cōdex fōntānus**, *source (code)*
