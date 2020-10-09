@@ -12,7 +12,10 @@
    + ***cōdicātiō, -ōnis*** *n.f.*: *coding*
 + **compīlō, -āre** *v.*: *to compile* (< "to plunder")
 + **dāta, -ārum** *n.nt.pl.*: *data* (< "given things")
++ **dēclārō, -āre** *v.*: *to declare (a variable, etc.)*
 + **dēfectus, -ī** (`def`) *a.*: *default* (< "defect")
++ **dēfīniō, -īre** *v.*: *to define*
+   + ***indēfīnītus, -ī*** *a.*: *undefined*
 + **dum**: *while*
 
 ## EFGH ##
@@ -38,6 +41,7 @@
 + ***Linux, -cis*** *n.m.*: *Linux*
 
 ## MNOP ##
++ **māchina virtuālis**: *virtual machine*
 + **mendum, -ī** *n.nt.*: *bug* (< "fault")
    + ***demendō, -āre*** *v.*: *to debug*
 + **nihil**: *null* (< "nothing")
@@ -72,6 +76,9 @@
 + **vacuus, -ī** (`vac`) *a.*: *void*
    + **functiō vacua**: *void function*
    + ***parametrum* (-ī**, *n.nt.*) **vacuum**: *void parameter*
++ **variābilis, -is** *n.f.*: *variable*
+   + **variābilis globālis**: *global variable*
+   + **variābilis locālis**: *local variable*
 + **versiō, -ōnis** *n.f.*: *version* (< "turning")
 + **vērus, -ī** *a.*: *true*
 + `vfin`: **versum finiō, -īre**, *to end the line*, `endl`
