@@ -1,4 +1,4 @@
-*This is the list of the Latin terms I used in my codes or explanations*
+*This is the list of the Latin terms I would use in my codes, explanations or anywhere else*
 
 ## ABCD ##
 + **aliter** (`alit`): *else*
