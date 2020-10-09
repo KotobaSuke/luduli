@@ -58,7 +58,7 @@
 + `pfort`: **pseudo-fortuītum**, `srand`
 + **plica, -ae** *n.f.*: *file* (vide [**id**](http://web.archive.org/web/20040305080739/http://home.t-online.de/home/Wiebke.Timm/computerlatein.htm))
 + **prō**: *for*
-+ **programma, -ata** *n.nt.*: *program* (< Gr. **programma** "edict")
++ **programma, -atis** *n.nt.*: *program* (< Gr. **programma** "edict")
    + ***programmatātiō, -ōnis*** *n.f.*: *programming*
 * ***prōtotypus, -ī*** *n.m.*: *prototype* (< Gr. **prōtotypos**)
 + ***Pȳthon, -ōnis*** *n.f.*: *Python*
@@ -71,7 +71,7 @@
 + **scrīptum, -ī** *n.nt.*: *script* (< "text")
    + **ScrīptumJavae**: *JavaScript*
 + **sī**: *if*
-+ **systēma, -ata** *n.nt*: *system*
++ **systēma, -atis** *n.nt*: *system*
 + `tect`: **functiō tēctī**, *ceiling function*, `ceil`
 
 ## UVWXYZ ##
