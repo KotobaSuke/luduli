@@ -81,7 +81,7 @@ vac quaerere(int persona){
     char nomenEx[12];
     si(persona == 0) linsim(nomenEx, nomen0);
     alit {linsim(nomenEx, nomen1);}
-    cex << vfin << "Teae nunc funt vices, " << nomenEx << vfin;
+    cex << vfin << "Tuae nunc funt vices, " << nomenEx << vfin;
     std::cin >> imp[0];
     std::cin >> imp[1];
     std::cin >> imp[2];
