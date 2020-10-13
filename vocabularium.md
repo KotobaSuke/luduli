@@ -82,6 +82,7 @@
 + **variābilis, -is** *n.f.*: *variable*
    + **variābilis globālis**: *global variable*
    + **variābilis locālis**: *local variable*
++ `vcap`: **versum capere**, *to get the line*, `getline`
 + **versiō, -ōnis** *n.f.*: *version* (< "turning")
 + **vērus, -ī** *a.*: *true*
-+ `vfin`: **versum finiō, -īre**, *to end the line*, `endl`
++ `vfin`: **versum finīre**, *to end the line*, `endl`
