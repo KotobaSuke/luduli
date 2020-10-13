@@ -73,7 +73,7 @@ vac componere(){
     norma[2] = fort() % 6 + 1;
     norma[3] = fort() % 6 + 1;
     cex << vfin << "Compositio terminata est" << vfin;
-    cex << "Pone 4 numera 1~6 ad ponendum pilulas\nPone \"0 0 0 0\" ad terminandum ludum" << vfin;
+    cex << "Pone 4 numeros 1~6 ad ponendum pilulas\nPone \"0 0 0 0\" ad terminandum ludum" << vfin;
     quaerere(lusor);
 }
 
