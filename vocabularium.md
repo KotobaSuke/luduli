@@ -55,6 +55,7 @@
 + ***octētus, -ī*** *n.m.*: *byte* (< En. **octet**)
 + ***parataxis, -is*** *n.f.*: *array* (< NGr. **parataxi**)
 + **pergō, -ere** (`perg`) *v.*: *to continue*
++ **perlegō, -ere** *v.*: *to scan* (< "to view all over")
 + `pfort`: **pseudo-fortuītum**, `srand`
 + **plica, -ae** *n.f.*: *file* (vide [**id**](http://web.archive.org/web/20040305080739/http://home.t-online.de/home/Wiebke.Timm/computerlatein.htm))
 + **prō**: *for*
