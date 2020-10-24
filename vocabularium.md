@@ -68,7 +68,7 @@
 + **reddō, -ere** *v.*: *to return*
 + **repositōrium, -ī** *n.nt.*: *repository*
 + **rēs, reī** *n.f.*: *case* (< "thing; affair")
-+ **robot, -is** *n.m.*: **androidēs**, *robot* (< Cz. **robot** < **robota** "servitude")
++ **robotum, -a** *n.nt.*: **androidēs**, *robot* (< Cz. **robot** < **robota** "servitude")
 + **scrīptum, -ī** *n.nt.*: *script* (< "text")
    + **ScrīptumJavae**: *JavaScript*
 + **sī**: *if*
