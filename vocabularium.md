@@ -61,6 +61,9 @@
 + **prō**: *for*
 + **programma, -atis** *n.nt.*: *program* (< Gr. **programma** "edict")
    + ***programmatātiō, -ōnis*** *n.f.*: *programming*
++ **proprius, -ī** *a.*: *eigen-*
+   + **valor proprius**: *eigenvalue*
+   + **vector proprius**: *eigenvector*
 * ***prōtotypus, -ī*** *n.m.*: *prototype* (< Gr. **prōtotypos**)
 + ***Pȳthon, -ōnis*** *n.f.*: *Python*
 
@@ -85,6 +88,7 @@
    + **variābilis globālis**: *global variable*
    + **variābilis locālis**: *local variable*
 + `vcap`: **versum capere**, *to get the line*, `getline`
++ **vector, -ōris** *n.m.*: *vector* (< "bearer")
 + **versiō, -ōnis** *n.f.*: *version* (< "turning")
 + **vērus, -ī** *a.*: *true*
 + `vfin`: **versum finīre**, *to end the line*, `endl`
