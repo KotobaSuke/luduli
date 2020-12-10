@@ -37,6 +37,7 @@
 
 ## IJKL ##
 + ***inassīgnātus*, -ī** (`inassgn`) *a.*: *unassigned*
++ **indicātor, -is** *n.m.*: *pointer*
 + ***Java, -ae*** *n.f.*: *Java*
 + **lingua C**, **C** *n.f.*: *C language*
 + `linsim`: `strcpy`, **simulātiō līnī**
