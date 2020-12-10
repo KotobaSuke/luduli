@@ -11,7 +11,7 @@
 + **cōdex, -icis** *n.m.*: *code* (< "tree trunk")
    + ***cōdicātiō, -ōnis*** *n.f.*: *coding*
 + **compīlō, -āre** *v.*: *to compile* (< "to plunder")
-+ **dāta, -ārum** *n.nt.pl.*: *data* (< "given things")
++ **dāta, -ōrum** *n.nt.pl.*: *data* (< "given things")
 + **dēclārō, -āre** *v.*: *to declare (a variable, etc.)*
 + **dēfectus, -ī** (`def`) *a.*: *default* (< "defect")
 + **dēfīniō, -īre** *v.*: *to define*
