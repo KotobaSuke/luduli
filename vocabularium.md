@@ -47,6 +47,7 @@
 
 ## IJKL ##
 + **indicātor, -is** *n.m.*: *pointer*
++ ***interfaciēs, -ēs*** *n.f.*: *interface* <br>(= **inter-** + **faciēs** *appearance, face*)
 + ***Java, -ae*** *n.f.*: *Java*
 + **legō, -ere** *v.*: *to read*, `scan`
 + **lingua C**, **C** *n.f.*: *C language*
